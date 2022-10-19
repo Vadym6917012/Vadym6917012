@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vadym
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning C#, data bases
+- 🌱 I’m currently learning C#, Data bases, Sql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
