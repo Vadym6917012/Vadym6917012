@@ -40,7 +40,7 @@ Support ChatCool on KoFi:
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/Vadym6917012"><img src="https://skillicons.dev/icons?i=angular,cs,css,dotnet,github,html,ts,vscode"> </a> </p>
 
 ## My Stats:
 <p align="center">
