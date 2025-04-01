@@ -34,7 +34,7 @@
 - 🌱 Learning Angular, Type Script & more
 - 📫 How to contact me: https://t.me/rv_03x, Vadym Radchuk (Telegram), 
 
-Support ChatCool on KoFi:
+Support AutoMarket on KoFi:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](ko-fi.com/vadym6917012)
 
